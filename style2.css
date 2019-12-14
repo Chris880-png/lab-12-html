@@ -1,3 +1,18 @@
+<div id="scissors">
+    <p>This is <em class="paper">crazy</em></p>
+</div>
+
+
+<div id="top">
+
+<h1>Loren Ipsum offers 3 great packaged deals, buy them today!</h1>
+
+<p class="intro">This is the best Loren Ipsum can help you everyday</p>
+
+<p class="intro">Buy our content today</p>
+
+</div>
+
 h1 {
 
     color: #008000;
@@ -122,4 +137,17 @@ h1 {
 
     background-color: #FEFE22;
 
+}
+
+
+#top {
+    background-color: #ccc;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+body {
+    background: white url(http://entertainmenttechnology.github.io/Wilson-MTEC1003/resources/img/lab-13-face.png) repeat top right;
 }
